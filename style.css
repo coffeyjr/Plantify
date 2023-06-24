@@ -76,7 +76,7 @@ img {
 }
 
 .main__title {
-    font-size: 4em;
+    font-size: 3.25em;
     text-transform: uppercase;
     letter-spacing: 5px;
     color: var(--clr-dark--green);
