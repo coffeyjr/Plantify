@@ -71,7 +71,7 @@ img {
 
 .section-main {
     background: var(--clr-off--white);
-    min-height: 500px;
+    min-height: 600px;
 }
 
 .main__title {
@@ -207,11 +207,10 @@ img {
 
 .footer__list {
     width: 100%;
-    height: min-content;
     display: flex;
     justify-content:space-around;
     align-items: center;
-    padding: 2em;
+    padding: 3em;
 }
 
 .footer__item {
