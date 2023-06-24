@@ -211,6 +211,7 @@ img {
     justify-content:space-around;
     align-items: center;
     padding: 3em;
+    border: 1px solid #eee;
 }
 
 .footer__item {
@@ -221,4 +222,8 @@ img {
 .footer__link {
     text-decoration: none;
     color: #fff;
+}
+
+ul {
+    margin: 0;
 }
